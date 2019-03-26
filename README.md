@@ -1,6 +1,6 @@
 # Java Tracer
 
-A tracing tool for Java applications. This tool uses eBPF to hook on OpenJDK USDT probes and writes the output as a CTF file
+A tracing tool for Java applications. This tool hooks on OpenJDK USDT probes using eBPF and generates CTF trace files.
 
 ## Requirements
   - Linux Kernel supporting eBPF
