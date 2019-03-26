@@ -24,7 +24,7 @@ cd traceLib/
 ## Usage 
 
 ```
-./java-lttng-tracer.sh
+./java-lttng-tracer.sh $PID
 ```
 
 ## Trace Analysis 
